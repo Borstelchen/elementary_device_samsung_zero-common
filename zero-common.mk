@@ -90,7 +90,7 @@ PRODUCT_PACKAGES += \
     tinymix \
     libtinycompress
 
-# Bluetooth, added 2020-07-21
+# Bluetooth, added 2020-07-12
 PRODUCT_PACKAGES += \
     libbt-vendor
 PRODUCT_COPY_FILES += \
